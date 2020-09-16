@@ -1,0 +1,5 @@
+Zadejte cisla, pro vypocet a ukonceni programu zadejte 'end'
+Soucet cisel :3589.0
+Prumer cisel :897.25
+Nejvetsi cislo z cisel :3245
+Nejmensi cislo z cisel :23
